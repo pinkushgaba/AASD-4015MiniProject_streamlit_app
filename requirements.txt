@@ -64,7 +64,6 @@ pyasn1-modules==0.2.8
 Pygments 
 pyparsing==3.0.9
 python-dateutil 
-pytz
 pywin32==304
 PyYAML==6.0
 pyzmq 
