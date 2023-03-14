@@ -58,9 +58,7 @@ prompt-toolkit
 protobuf==3.19.6
 psutil 
 pure-eval 
-pyarrow==11.0.0
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
+
 
 pywin32==304
 PyYAML==6.0
