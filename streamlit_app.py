@@ -29,7 +29,7 @@ tokenizer_file = "tokenizer.pickle"
 wordnet = WordNetLemmatizer()
 regex = re.compile('[%s]' % re.escape(string.punctuation))
 
-model_list = ["LSTM']
+model_list = ["LSTM"]
 model_file_list = [r"models/LSTM_model.hdf5"]
 
 with open(tokenizer_file, 'rb') as handle:
