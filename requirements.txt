@@ -57,7 +57,7 @@ plotly==5.13.0
 prompt-toolkit 
 protobuf==3.19.6
 psutil 
-pure-eval 
+
 
 
 pywin32==304
