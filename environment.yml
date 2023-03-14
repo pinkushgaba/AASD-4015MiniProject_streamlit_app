@@ -85,7 +85,7 @@ dependencies:
   - pyqt=5.9.2=py36h6538335_2
   - pyreadline=2.1=py36_1
   - pyrsistent=0.15.6=py36he774522_0
-  - python=3.6.9=h5500b2f_0
+  - python=3.9.10=h5500b2f_0
   - python-dateutil=2.8.1=py_0
   - python_abi=3.6=1_cp36m
   - pytz=2019.3=py_0
